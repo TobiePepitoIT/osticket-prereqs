@@ -3,12 +3,15 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
+This tutorial outlines the prerequisites and installation of the open-source help desk support ticketing system osTicket.<br />
 
 <h2>Video Demonstration</h2>
 
-- ### https://www.youtube.com/watch?v=QEtZC9JWvJc
+Virtual Machine 
+- ### https://youtu.be/5ZLiO-8yh2Q
+osTicket
+- ### https://youtu.be/ckkbU94LNpY
 
 <h2>Environments and Technologies Used</h2>
 
@@ -18,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
@@ -26,14 +29,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - osTicket Installation files
 - Heidi SQL
 
-<h2>Installation Steps</h2>
+<h2>Screenshots</h2>
 
 <p>
-</p>
-<p>
+
+Results  
 Ok, welcome to my first tutorial! First things first we will have to create a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. Create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. In this example I will be using 4 CPUs.
   
- <img src="https://i.imgur.com/OPaIGoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/nUbgBHa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
